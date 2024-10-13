@@ -11,4 +11,4 @@ The model is then used to predict IVT objects for April 2020, compared to result
 This approach could potentially be developed further to identify Arctic warm and moist air intrusions in regional climate simulation output from the PolarRES project with low computational effort in cases when true IVT output is not available from all RCMs.  
 
 ![frame_ivt_shapes](https://github.com/JanLandwehrs/MoistureTransport_FeatureDetection_MachineLearning/blob/main/2020-04-16T15.jpg)
-[Watch the video](https://nextcloud.awi.de/s/QzDCepXfixxt9oX)
+[Watch the animation here!](https://nextcloud.awi.de/s/QzDCepXfixxt9oX)
