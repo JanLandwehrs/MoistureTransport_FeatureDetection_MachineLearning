@@ -2,7 +2,9 @@
 
 Here, i apply the CGNet / ClimateNet neural network (https://github.com/andregraubner/ClimateNet; https://portal.nersc.gov/project/ClimateNet/; Higgins et al. 2022, https://doi.org/10.1029/2022MS003495) for detection of moisture transport anomaly features in ERA5. 
 
-First, i run the MOAAP tool (Prein et al. 2023, https://doi.org/10.1029/2023EF003534; https://github.com/AndreasPrein/MOAAP) to obtain labeleled IVT objects (column-integrated water vapor transport) for April 2019. This is used as the reference data to train the neural network, together with column-integrated water vapor (tcvw) and horizontal wind speed components at 850 hPa from ERA5, on 6 hourly basis. 
+First, i run the MOAAP tool (Prein et al. 2023, https://doi.org/10.1029/2023EF003534; https://github.com/AndreasPrein/MOAAP) to obtain labeleled IVT objects (column-integrated water vapor transport) for April 2019. 
+
+This is used as the reference data to train the neural network on the connection of these objects to column-integrated water vapor (tcvw) and horizontal wind speed components at 850 hPa from ERA5, on 6 hourly basis. 
 
 The model is then used to predict IVT objects for April 2020, compared to results from MOAAP.
 
