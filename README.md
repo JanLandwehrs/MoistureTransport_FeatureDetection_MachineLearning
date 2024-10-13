@@ -14,6 +14,9 @@ This approach could potentially be developed further to identify Arctic warm and
 ![frame_ivt_shapes](https://github.com/JanLandwehrs/MoistureTransport_FeatureDetection_MachineLearning/blob/main/output/2020-04-16T15.jpg)
 
 
-
+<video width="320" height="240" controls>
+  <source src="https://github.com/JanLandwehrs/MoistureTransport_FeatureDetection_MachineLearning/blob/main/movie_MOAAP_ERA5ClimateNet_2020-04.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ![frame_ivt_shapes](https://github.com/JanLandwehrs/MoistureTransport_FeatureDetection_MachineLearning/blob/main/movie_MOAAP_ERA5ClimateNet_2020-04.mp4)
