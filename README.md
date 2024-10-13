@@ -9,3 +9,5 @@ This is used as the reference data to train the neural network on the connection
 The model is then used to predict IVT objects for April 2020, compared to results from MOAAP.
 
 This approach could potentially be developed further to identify Arctic warm and moist air intrusions in regional climate simulation output from the PolarRES project with low computational effort in cases when true IVT output is not available from all RCMs.  
+
+https://github.com/JanLandwehrs/MoistureTransport_FeatureDetection_MachineLearning/blob/main/output/2020-04-16T15.jpg
